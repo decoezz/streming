@@ -14,4 +14,4 @@ client.user.setStatus("#IT WORKS!!")
 
 
 
-client.login(MzMwODM0OTA2NzgxNDUwMjQw.DtPwcA.h1I3Sy4mhZUO9duPPrhuKgnxCec);// لا تغير فيها شيء
+client.login(process.env.TOKEN);// لا تغير فيها شيء
